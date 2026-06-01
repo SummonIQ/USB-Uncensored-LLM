@@ -1,3 +1,18 @@
+<!-- SUMMONIQ-OSS-HEADER:START -->
+<div align="center">
+
+  <h1>USB Uncensored LLM</h1>
+  <p>Air-gapped, zero-dependency local AI environment for macOS.</p>
+
+  <p>
+    <a href="https://github.com/SummonIQ/USB-Uncensored-LLM"><img alt="Repository" src="https://img.shields.io/badge/github-SummonIQ%2FUSB-Uncensored-LLM-24292f?logo=github"></a>
+    <a href="https://unlicense.org/"><img alt="License: Unlicense" src="https://img.shields.io/badge/license-Unlicense-blue.svg"></a>
+  </p>
+
+</div>
+
+---
+<!-- SUMMONIQ-OSS-HEADER:END -->
 # USB-Uncensored-LLM (macOS Edition) ⚡
 
 **USB-Uncensored-LLM** is a fully air-gapped, zero-dependency, plug-and-play Local AI environment designed specifically for **macOS**. It bypasses complex installations, executing large language models directly on your hardware with no internet required.
